@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [github.com](https://github.com/Maxwell200073/huddle-page)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [github.io](https://maxwell200073.github.io/huddle-page/)
 
 ## My process
 
